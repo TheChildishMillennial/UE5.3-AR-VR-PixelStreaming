@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/StreamerStuff/PixelStreamer_BP.uasset",
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/StreamerStuff/StreamingRenderTarget.uasset",
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/Untitled.umap",
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/StreamerStuff/TextureTarget2D_1.uasset",
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/StreamerStuff/PixelStreamVCam.uasset",
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/StreamerStuff/NewBlueprint.uasset",
+				"C:/Users/jdbea/Documents/Unreal Projects/PixelStreamingVR/Content/VRTemplate/Blueprints/B_AssetGuideline_VRTemplate.uasset"
+			]
+		}
+	]
+}
